@@ -2,7 +2,8 @@
 
 > **WARNING**
 > This version handles all the LabVIEW types and memory allocation from the C++ side to demonstrate what is possible
-> It hasn't been tested on Linux
+> 
+> It hasn't been tested on Linux so the CMake script will complain if you try and build with a non MSVC compiler
 
 > **Note**
 > Given a 2D array of letters and a list of words to find, return a map of words with the positions of each letter. 
