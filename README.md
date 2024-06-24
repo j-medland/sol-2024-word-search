@@ -1,5 +1,9 @@
 # Summer of LabVIEW 2024 Word Search
 
+This is my **ineligible** solution to the first challenge of the 2024 Summer of LabVIEW. I created it to see how quick I could get through the unholy (and unsporting) alliance of LabVIEW and C++.
+
+Please try it out and open an issue if you have any questions.
+
 > **Note**
 > Given a 2D array of letters and a list of words to find, return a map of words with the positions of each letter. 
 > Try to code as efficient an algorithm as you can as submissions will be ranked by how fast they complete the word search correctly.
