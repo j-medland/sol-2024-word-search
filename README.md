@@ -1,6 +1,6 @@
 # Summer of LabVIEW 2024 Word Search
 
-This is my **ineligible** solution to the first challenge of the 2024 Summer of LabVIEW. I created it to see how quick I could get through the unholy (and unsporting) alliance of LabVIEW and C++.
+This is my **ineligible** solution to the first challenge of the 2024 Summer of LabVIEW. I created it to see how quick I could get via the unholy (and unsporting) alliance of LabVIEW and C++.
 
 Please try it out and open an issue if you have any questions.
 
