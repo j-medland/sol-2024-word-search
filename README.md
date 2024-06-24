@@ -12,7 +12,8 @@ LabVIEW 2020 Community Edition or later
 If you plan on building the C++ code into binaries you will need a compiler that supports the C++ 20 standard (specifically `std::span`) such as
 * MSVC on Windows (2019 onwards)
 * GCC on Linux (10 onwards)
-* CMake 3.5 or later
+
+You will also require CMake 3.5 onwards
 
 A copy of the binaries is included in this repository so you can just `clone` and go but if want to make changes to the C++ code, binary builds are managed via CMake - check for CMake integration in your IDE for ease of use.
 
@@ -30,3 +31,6 @@ The licence specified covers the code created by the author and any contributors
 
 The other code supplied in this repository is either from
 [Summer of LabVIEW - WordSearch by Illuminated G](https://www.vipm.io/package/illuminatedg_lib_sol_wordsearch/) distributed under the MIT licence or from [Darren Nattinger](https://forums.ni.com/t5/World-s-Fastest-LabVIEW/Darren-Nattinger-World-s-Fastest-LabVIEW-Programmer/ta-p/3518113) and [Chrisian Altenbach](https://forums.ni.com/t5/LabVIEW-Champions-Directory/LabVIEW-Champion-Christian-Altenbach/ta-p/3495223) who I hope are happy with me distributing it in this way 😅🤞
+
+## Bonus
+A bonus branch exisits which demonstrates LabVIEW Managed Memory allocation from the C++ code.
